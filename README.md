@@ -1,2 +1,2 @@
-# -ESX-FiveM-sc-lootdeadbody
+# sc-lootdeadbody
 Loot dead bodies for ESX framework
