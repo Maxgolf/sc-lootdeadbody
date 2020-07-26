@@ -7,4 +7,4 @@ Loot dead bodies for ESX framework
 - [esx_policejob](https://github.com/ESX-Org/esx_policejob)
 
 # Join discord if you need help!
-[Discord](https://discord.gg/Zyq7kjw)
+[Discord](https://discord.gg/bEwhjJf)
